@@ -33,7 +33,7 @@ function Header() {
   return (
     <div className="headerContainer">
         <div className="headerImage">
-            <img className='headerlogo' src={headerImg} alt="MainLogo" /><NavLink className='headerp' to='/'>Codo File</NavLink>
+            <img className='headerlogo' src={headerImg} alt="MainLogo" /><NavLink className='headerp' to='/'>CodeCraft</NavLink>
         </div>
         <div className="Headerbtngroup">
             {/* <NavLink to='/login'><button className='Headerbtn Headerbtn1 btn'>Login</button></NavLink>
