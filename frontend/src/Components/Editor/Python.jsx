@@ -20,8 +20,8 @@ function Python() {
 
     try{
 
-      // const {data} = await axios.post("http://localhost:5000/runpy",payload)
-      const response = await fetch("http://localhost:5000/runpy",{
+      // const {data} = await axios.post("https://codecraft-t013.onrender.com/runpy",payload)
+      const response = await fetch("https://codecraft-t013.onrender.com/runpy",{
         method:'POST',
         headers:{
           "Content-Type":"application/json"
