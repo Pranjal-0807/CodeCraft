@@ -6,7 +6,7 @@ function Footer() {
   return (
     <> 
         <div class="wave-container wave">
-            <p>© {year}, Developed & Designed with ❤️ by CodeCraft</p>
+            <p>© {year}, CodeCraft. All rights reserved.</p>
         </div>
     </>
   )

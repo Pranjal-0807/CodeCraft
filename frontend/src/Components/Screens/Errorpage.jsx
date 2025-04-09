@@ -30,8 +30,7 @@ function Errorpage() {
       <div className="errorPage">
           <div className="errortextcontainer" id='dragg'>
           <div className="messageEr">
-            <h1  value="7" >404</h1><h3 className='eerrrroorr'>The page you are looking for is out to <span style={{fontSize:"2rem",color:"gray"}}> lunch.</span></h3>
-            <h3>Please come back later.</h3>
+            <h1  value="7" >404</h1><h3 className='eerrrroorr'>The page you are looking for is not available.</h3>
           </div><br />
             <NavLink to='/'><button className='btn'>Back to Home</button></NavLink>
           </div>

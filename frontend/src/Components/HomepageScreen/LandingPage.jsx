@@ -7,7 +7,7 @@ function LandingPage() {
     <img src={blob} alt="" className='blob_a blob1' />
     <img src={blob} alt="" className='blob_a blob2' />
         <div className="landingInfo">
-            <h1>Codo File</h1>
+            <h1>CodeCraft</h1>
             <p>Think, Speak, Code, Repeat</p>
         </div>
     </div>
